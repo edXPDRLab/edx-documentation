@@ -25,10 +25,10 @@ edX Studio
   outline panel on the right. (TNL-291)
 
   
-* Cautions have been added to the course export page in the user interface to
-  make course teams aware that when courses are exported, some of the exported
-  data includes sensitive information that should not be shared, including MATLAB
-  API keys and LTI passports.
+* When courses are exported, the exported data includes sensitive information
+  that should not be shared, including MATLAB API keys and LTI passports. The
+  wording on the course export page has been updated to include warnings about
+  sensitive data included in exported data.
   
 ******************************
 edX Learning Management System
