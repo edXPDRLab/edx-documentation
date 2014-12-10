@@ -2,6 +2,22 @@
 Change Log
 ############
 
+*****************
+November, 2014
+*****************
+
+.. list-table::
+   :widths: 10 70
+   :header-rows: 1
+
+   * - Date
+     - Change
+   * - 11/12/14
+     - Corrected the description of the :ref:`Show Answer` setting for
+       problems.
+   * - 11/07/14
+     - Added a caution that content experiments are only supported within
+       verticals, in :ref:`Add a Content Experiment in OLX`.
        
 *****************
 October, 2014
@@ -20,7 +36,8 @@ October, 2014
      - Added :ref:`email template<Verified Registration Reminder>` for 
        reminding students of last day to register for verified certificates.
    * - 10/29/14
-     - Added information about course start time visibility to :ref:`The Course Start Date`.
+     - Added information about course start time visibility to :ref:`The Course
+       Start Date`.
    * - 10/28/14
      - Added section for :ref:`Show Reset Button` in :ref:`Problem Settings`
        and clarified **Reset** button behavior in :ref:`Problem Student View`.
