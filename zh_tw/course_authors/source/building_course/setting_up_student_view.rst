@@ -39,9 +39,9 @@ The Course Summary Page
 ***********************************
 
 The following image shows an example course summary page.  Students can see the
-course summary page before registering, and may decide to register based on the
-content of the page. You configure the contents of this page in Studio, as
-described in this chapter:
+course summary page before they enroll in the course, and may decide to enroll
+based on the content of the page. You configure the contents of this page in
+Studio, as described in this chapter:
 
 .. image:: ../Images/about_page.png
  :alt: An image of the course summary page.
@@ -56,10 +56,10 @@ The Student Dashboard
 ***********************************
 
 
-If a student registers for your course, the course is then listed on the
-**Current Courses** dashboard, with the course image.  From the dashboard, a
-student can open a course that has started. If the course has not started, the
-student can see the start date, as explained in this chapter.
+If a student enrolls in your course, the course is then listed on the **Current
+Courses** dashboard, with the course image.  From the dashboard, a student can
+open a course that has started. If the course has not started, the student can
+see the start date, as explained in this chapter.
 
 .. image:: ../Images/dashboard.png
  :alt: An image of the dashboard
@@ -97,17 +97,23 @@ The Course Start Date
  you intend it to. You must change the course start date to the date you want
  students to begin using the course.
 
-Students see the course start date and time on their **Current Courses** dashboards and
-on the course summary page. 
+Students see the course start date and time on their **Current Courses**
+dashboards and on the course About page (sometimes also called the course
+summary page). Students can see some parts of the course before the course start
+date. For example, students can see your **Course Info** page and course-wide
+discussion topics as soon as they enroll in your course. For more information
+about course-wide discussion topics, see :ref:`Create CourseWide Discussion
+Topics`.
 
 The following example shows the course start date and time on the course summary page:
 
 .. image:: ../Images/about-page-course-start.png
- :alt: An image of the course summary page, with the start date circled.
+ :alt: An image of the course About page, with the start date circled.
 
-.. note:: For courses on edX.org_, you must communicate the course start date and time to
- your edX Program Manager to ensure the date is accurate on the course
- summary page.
+.. note:: 
+ For courses on edX.org_, you must communicate the course start date and time
+ to your edX program manager to ensure the date is accurate on the course
+ About page.
 
 In the dashboard, students see the start dates and times for each of their
 courses, as in the following examples.
@@ -116,7 +122,9 @@ courses, as in the following examples.
  :width: 600
  :alt: An image of two courses in the student dashboard, with the start dates and times circled.
 
-.. note:: If you do not specify a start time for your course, students see the default start time, 00:00 Coordinated Universal Time (UTC).
+.. note:: If you do not specify a start time for your course, students see
+   the default start time, 00:00 Coordinated Universal Time (UTC).
+
 
 
 
@@ -146,11 +154,11 @@ To set an advertised start date:
 
 4. Click **Save Changes** at the bottom of the page.
 
-  The start date shown on the dashboard is now the value of the **Course
-  Advertised Start Date** policy key:
+The start date shown on the dashboard is now the value of the **Course
+Advertised Start Date** policy key:
 
-  .. image:: ../Images/dashboard-course_adver_start.png
-   :alt: An image of a course listing in the student dashboard, with the
+.. image:: ../Images/dashboard-course_adver_start.png
+ :alt: An image of a course listing in the student dashboard, with the
      advertised start date circled.
 
 If you do not change the default course start date (01/01/2030), and the
@@ -285,7 +293,7 @@ page:
 .. image:: ../Images/about-page-course-video.png
  :alt: Image of the course video in the course summary page.
 
-The course video should excite and entice potential students to register, and
+The course video should excite and entice potential students to enroll, and
 reveal some of the personality the instructors bring to the course.
 
 The video should answer these key questions:
@@ -293,7 +301,7 @@ The video should answer these key questions:
 * Who is teaching the course?
 * What university or college is the course affiliated with?
 * What topics and concepts are covered in your course?
-* Why should a learner register for your course?
+* Why should a learner enroll in your course?
 
 The video should deliver your message as concisely as possible and have a run
 time of less than 2 minutes.

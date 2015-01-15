@@ -11,10 +11,13 @@ edX Guide for Students
    :numbered:
    :maxdepth: 2
 
-   change_log
+   preface
    SFD_introduction
-   SFD_video_player
    SFD_certificates
+   SFD_mobile
+   SFD_video_player
    SFD_mathformatting
    SFD_ORA
    sfd_discussions/index
+   SFD_wiki
+   change_log

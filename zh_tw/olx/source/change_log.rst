@@ -2,6 +2,37 @@
 Change Log
 ############
 
+*****************
+December, 2014
+*****************
+
+.. list-table::
+   :widths: 10 70
+   :header-rows: 1
+
+   * - Date
+     - Change
+   * - 12/17/14
+     - Updated :ref:`Custom JavaScript` to indicate that you cannot use a
+       custom JavaScript problem in a component with multiple problems.
+
+*****************
+November, 2014
+*****************
+
+.. list-table::
+   :widths: 10 70
+   :header-rows: 1
+
+   * - Date
+     - Change
+   * - 11/24/14
+     - Added section :ref:`Example of OLX for a Studio Course`.
+   * - 11/14/14
+     - Added additional information in the :ref:`Drag and Drop` chapter.
+   * - 11/07/14
+     - Added a caution that content experiments are only supported within
+       verticals, in :ref:`Add a Content Experiment in OLX`.
 
 *****************
 October, 2014
@@ -13,9 +44,6 @@ October, 2014
 
    * - Date
      - Change
-   * - 11/07/14
-     - Added a caution that content experiments are only supported within
-       verticals, in :ref:`Add a Content Experiment in OLX`.
    * - 10/28/14
      - Added the section :ref:`Example of an OLX Course`.
    * - 
