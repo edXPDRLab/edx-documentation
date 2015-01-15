@@ -3,6 +3,43 @@ Change Log
 ############
 
 *****************
+January, 2015
+*****************
+
+.. list-table::
+   :widths: 10 70
+   :header-rows: 1
+
+   * - Date
+     - Change
+   * - 1/7/15
+     - Added the :ref:`Rerun a Course` chapter.
+
+*****************
+December, 2014
+*****************
+
+.. list-table::
+   :widths: 10 70
+   :header-rows: 1
+
+   * - Date
+     - Change
+   * - 12/19/14
+     - Updated :ref:`Adding Course Updates and Handouts` and :ref:`The Visual
+       Editor` to clarify that the visual editor is not supported for course
+       handouts.
+   * - 12/17/14
+     - Updated :ref:`Custom JavaScript` and :ref:`Multiple Problems in One
+       Component` to indicate that you cannot use a custom JavaScript problem
+       in a component with multiple problems.
+   * - 12/02/14
+     - Added email template for :ref:`Weekly Highlights` email to students.
+   * - 
+     - The :ref:`Bulk Email` section is now in the :ref:`Running Your Course Index` chapter.
+
+
+*****************
 November, 2014
 *****************
 
@@ -12,9 +49,27 @@ November, 2014
 
    * - Date
      - Change
+   * - 11/20/14
+     - Updated the :ref:`compression specifications<Compression
+       Specifications>` for video files.
+   * - 11/17/14
+     - Updated :ref:`Working with Video Components` to indicate that video
+       transcripts are required.
+   * -
+     - Replaced information about accessing student demographic data in the
+       :ref:`Student Data` chapter with a cross-reference to edX Insights.
+   * - 11/14/14
+     - Added new documentation for :ref:`using the course wiki<Course_Wiki>`
+       in the :ref:`Running Your Course Index` chapter.
+   * - 11/13/14
+     - Added additional information in the :ref:`Drag and Drop` chapter.
    * - 11/12/14
      - Corrected the description of the :ref:`Show Answer` setting for
        problems.
+   * - 
+     - Added note that students can see the **Course Info** page and course-
+       wide discussion topics as soon as they enroll in a course to :ref:`The
+       Course Start Date`.
    * - 11/07/14
      - Added a caution that content experiments are only supported within
        verticals, in :ref:`Add a Content Experiment in OLX`.
@@ -55,11 +110,9 @@ October, 2014
      - Updated :ref:`Set Important Dates for Your Course` to reflect change
        that course dates now use UTC.
    * - 10/14/14
-     - Removed the chapter on the Vital Source E-Reader tool, as it is no
-       longer supported in the edX Platform.
+     - Added the :ref:`Rerun a Course` chapter.
    * - 10/7/14
      - Added the :ref:`Including Student Cohorts` chapter.
-       
        
 *****************
 September, 2014
@@ -252,7 +305,7 @@ May, 2014
      - Updated :ref:`Assigning_discussion_roles` with a note about course staff
        requiring explicit granting of discussion administration roles.
    * - 
-     - Added VitalSource topic.
+     - Added :ref:`VitalSource` topic.
    * - 05/08/14
      - Added warnings to :ref:`Add a File` about file size.
    * - 05/07/14

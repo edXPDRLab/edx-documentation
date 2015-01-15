@@ -4,6 +4,8 @@
 Glossary
 ############
 
+:ref:`A` - :ref:`C` - :ref:`D` - :ref:`E` - :ref:`F` - :ref:`G` - :ref:`H` - :ref:`I` - :ref:`L` - :ref:`M` - :ref:`N` - :ref:`P` - :ref:`R` - :ref:`S` - :ref:`T` - :ref:`V` - :ref:`W` - :ref:`XYZ<X>`
+
 .. _A:
 
 ****
@@ -52,7 +54,9 @@ C
  
 **Certificate**
 
-  A document issued to a registered student who successfully completes a course. Not all edX courses offer certificates, and not all students register as certificate candidates.
+  A document issued to an enrolled student who successfully completes a course.
+  Not all edX courses offer certificates, and not all students enroll as
+  certificate candidates.
 
 
 
@@ -106,7 +110,7 @@ C
   You can define alternative course content to be delivered to different,
   randomly assigned groups of students. Also known as A/B or split testing, you
   use content experiments to compare the performance of students who have been
-  exposed to different versions of of the content. For more information, see
+  exposed to different versions of the content. For more information, see
   :ref:`Creating Content Experiments`.
 
 **Content-Specific Discussion Topic**
@@ -193,20 +197,16 @@ D
   responsible for receiving course data from edX, and transferring it securely
   to researchers and other interested parties after it is received.
 
-  See the `edX Research
-  Guide<http://edx.readthedocs.org/projects/devdata/en/latest/>`.
+  See the `edX Research Guide`_.
 
-.. _Discussion:
- 
+.. _edX Research Guide: http://edx.readthedocs.org/projects/devdata/en/latest/
+
+
 **Discussion**
 
-  The set of topics defined to promote course-wide or unit-specific
-  conversation. Students use the discussion topics to communicate with each
-  other and the course staff in threaded exchanges.
-
-  A discussion is also a type of contribution that you can make to a topic to
-  start an open-ended dialogue. You can also contribute questions to the
-  discussion topics.
+  The set of topics defined to promote course-wide or unit-specific dialog.
+  Students use the discussion topics to communicate with each other and the
+  course staff in threaded excahnges.
 
   See :ref:`Discussions` for more information.
 
@@ -279,7 +279,7 @@ F
 
 **Forum**
 
-  See `Discussion`_.
+  See :ref:`Discussion<D>`.
 
 .. _G:
 
@@ -630,7 +630,7 @@ W
 .. _X:
 
 ****
-X
+XYZ
 ****
 
 .. _XBlock:

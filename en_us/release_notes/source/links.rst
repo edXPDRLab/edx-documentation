@@ -7,6 +7,8 @@
 
 .. OLX Guide Links
 
+.. _Example of OLX for a Studio Course: http://edx-open-learning-xml.readthedocs.org/en/latest/studio-example/index.html#example-of-olx-for-a-studio-course
+
 .. _Graphical Slider Tool: http://edx-open-learning-xml.readthedocs.org/en/latest/problem-xml/graphical_slider_tool.html#graphical-slider-tool
 
 .. _Symbolic Response: http://edx-open-learning-xml.readthedocs.org/en/latest/problem-xml/symbolic_response.html#symbolic-response
@@ -40,16 +42,35 @@
 
 .. _Student Guide to Course Discussions: http://edx-guide-for-students.readthedocs.org/en/latest/sfd_discussions/index.html
 
+.. _Math Formatting: http://edx-guide-for-students.readthedocs.org/en/latest/SFD_mathformatting.html
+
+.. _Entering Mathematical and Scientific Expressions: http://edx-guide-for-students.readthedocs.org/en/latest/SFD_mathformatting.html#math-formatting
+
+.. _Preface: http://edx-guide-for-students.readthedocs.org/en/latest/preface.html
+
+.. _Course Wiki: http://edx-guide-for-students.readthedocs.org/en/latest/SFD_wiki.html
+
+.. _The edX Mobile App:  http://edx-guide-for-students.readthedocs.org/en/latest/SFD_mobile.html#sfd-mobile
+
 .. Platform API guide links
 
-.. _edX Platform API Version 0.5: http://edx-platform-api.readthedocs.org/en/latest/index.html
+.. _edX Platform API: http://edx-platform-api.readthedocs.org/en/latest/index.html
 
 .. other links not yet categorized carefully
+
+.. _Assign Students to Cohort Groups by Uploading a CSV File: http://edx.readthedocs.org/projects/edx-partner-course-staff/en/latest/cohorts/cohort_config.html#assign-students-to-cohort-groups-by-uploading-a-csv-file
+
+.. _Weekly Highlights: http://edx-partner-course-staff.readthedocs.org/en/latest/running_course/bulk_email.html#weekly-highlights
 
 .. _Cohorts: http://edx.readthedocs.org/projects/edx-partner-course-staff/en/latest/cohorts/index.html
 
 .. _Creating Exercises and Tools: http://edx.readthedocs.org/projects/edx-partner-course-staff/en/latest/exercises_tools/index.html
 
+.. _Show Answer: http://edx.readthedocs.org/projects/edx-partner-course-staff/en/latest/creating_content/create_problem.html#show-answer
+
+.. _Add Content Experiments to Your Course: http://edx.readthedocs.org/projects/edx-partner-course-staff/en/latest/content_experiments/content_experiments_add.html
+
+.. _Add a Content Experiment in OLX: http://edx.readthedocs.org/projects/edx-partner-course-staff/en/latest/content_experiments/content_experiments_add.html#add-a-content-experiment-in-olx
 
 .. _edX Product and Engineering Newsletter: http://us5.campaign-archive2.com/?u=1822a33c054dc20e223ca40e2&id=090cb3ea4c&e=4a41f5542a
 
@@ -59,7 +80,13 @@
 
 .. _edX Edge: https://edge.edx.org
 
+.. _edX Video Player: http://edx-guide-for-students.readthedocs.org/en/latest/SFD_video_player.html
+
+.. _edX101: https://www.edx.org/course/overview-creating-edx-course-edx-edx101#.VIIJbWTF_yM
+
 .. _edx.org: http://edx.org
+
+.. _edX Insights: http://insights.edx.org
 
 .. _Sphinx: http://sphinx-doc.org/
 .. _LaTeX: http://www.latex-project.org/
@@ -77,6 +104,12 @@
 
 .. _Using edX Insights: http://edx-insights.readthedocs.org/en/latest/
 
+.. _error conditions: http://edx-insights.readthedocs.org/en/latest/Reference.html#error-conditions
+
+.. _Enrollment Activity: http://edx-insights.readthedocs.org/en/latest/enrollment/Enrollment_Activity.html#enrollment-activity
+
+.. _Computation Reference: http://edx-insights.readthedocs.org/en/latest/Reference.html#reference
+
 .. _Installing, Configuring, and Running the edX Platform: http://edx.readthedocs.org/projects/edx-installing-configuring-and-running/en/latest/
 
 .. _Installing the edX Production Stack: http://edx.readthedocs.org/projects/edx-installing-configuring-and-running/en/latest/prodstack/install_prodstack.html
@@ -91,6 +124,10 @@
 .. _edX Platform Developer's Guide: http://edx.readthedocs.org/projects/edx-developer-guide/en/latest/
 
 .. _edX Developer's Guide: http://edx.readthedocs.org/projects/edx-developer-guide/en/latest/
+
+.. _edx Modulestores: http://edx-developer-guide.readthedocs.org/en/latest/modulestores/index.html#edx-modulestores
+
+.. _Split Mongo Modulestore: http://edx-developer-guide.readthedocs.org/en/latest/modulestores/split-mongo.html#split-mongo-modulestore
 
 .. _Keys and Credentials for Data Transfers: http://edx.readthedocs.org/projects/devdata/en/latest/internal_data_formats/credentials.html
 
@@ -135,6 +172,8 @@
 .. _Course Launching Activities: http://ca.readthedocs.org/en/latest/releasing_course/course_launching.html#launch
 
 .. _Adding Pages to a Course: http://edx.readthedocs.org/projects/edx-partner-course-staff/en/latest/building_course/pages.html
+
+.. _Using the Course Wiki: http://edx.readthedocs.org/projects/edx-partner-course-staff/en/latest/running_course/course_wiki.html#course-wiki
 
 .. _Show or Hide the Course Wiki Page: http://edx.readthedocs.org/projects/edx-partner-course-staff/en/latest/building_course/pages.html#show-or-hide-the-course-wiki-page
 
@@ -273,6 +312,14 @@
 
 .. _Show Reset Button: http://edx-partner-course-staff.readthedocs.org/en/latest/creating_content/create_problem.html#show-reset-button
 
+.. _compression specifications: http://edx.readthedocs.org/projects/edx-partner-course-staff/en/latest/creating_content/create_video.html#compression-specifications
+
+.. _Multiple Problems in One Component: http://edx.readthedocs.org/projects/edx-partner-course-staff/en/latest/creating_content/create_problem.html#multiple-problems-in-one-component
+
+.. _Adding Course Updates and Handouts: http://edx.readthedocs.org/projects/edx-partner-course-staff/en/latest/building_course/handouts_updates.html#adding-course-updates-and-handouts
+
+.. _The Visual Editor: http://edx.readthedocs.org/projects/edx-partner-course-staff/en/latest/creating_content/create_html_component.html#the-visual-editor
+
 
 .. Peer Assessments
 
@@ -300,6 +347,11 @@
 
 .. _Keys and Credentials for Data Transfers: http://edx.readthedocs.org/projects/devdata/en/latest/internal_data_formats/credentials.html
 
+.. _Testing Events for Content Experiments: http://edx.readthedocs.org/projects/devdata/en/latest/internal_data_formats/tracking_logs.html#ab-event-types
+
+.. _Video Interaction Events: http://edx.readthedocs.org/projects/devdata/en/latest/internal_dat
+  a_formats/tracking_logs.html#video-interaction-events
+
 .. Developer Doc
 
 .. _Contributing to Open edX: http://edx.readthedocs.org/projects/userdocs/en/latest/process/index.html
@@ -311,3 +363,11 @@
 .. _Opaque Keys: https://github.com/edx/edx-platform/wiki/Opaque-Keys
 
 .. _Ubuntu installation instructions: https://github.com/edx/configuration/wiki/edX-Ubuntu-12.04-64-bit-Installation
+
+.. _edX Data Analytics API: http://edx.readthedocs.org/projects/edx-data-analytics-api/en/latest/index.html
+
+.. _Make All Content-Specific Discussion Topics Unified by Default: http://edx.readthedocs.org/projects/edx-partner-course-staff/en/latest/cohorts/cohorts_setup_discussions.html#make-all-content-specific-discussion-topics-unified-by-default
+
+.. _edX Data Analytics API Version 0 Alpha: http://edx.readthedocs.org/projects/edx-data-analytics-api/en/latest/index.html
+
+.. _edX Enrollment API: http://edx.readthedocs.org/projects/edx-enrollment-api/en/latest/
