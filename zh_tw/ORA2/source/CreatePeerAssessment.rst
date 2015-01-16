@@ -16,7 +16,7 @@
 
 每個步驟所包含的細節如下。
 
-如想了解更多關於開放式問題評分的資訊，請參考:ref:`Peer Assessments`.
+如想了解更多關於開放式問題評分的資訊，請參考 :ref:`Peer Assessments`.
 
 
 .. _PA Create Component:
