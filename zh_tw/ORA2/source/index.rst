@@ -7,4 +7,11 @@
 Creating Peer Assessments
 ========================================
 
-This documentation has moved! Please click `Creating Peer Assessments <http://edx.readthedocs.org/projects/edx-open-response-assessments/en/latest/>`_ to see the latest information about peer assessments.
+.. toctree::
+   :numbered:
+   :maxdepth: 2
+
+   PeerAssessment
+   CreatePeerAssessment
+   Access_PA_Info
+   PeerAssessment_Students
