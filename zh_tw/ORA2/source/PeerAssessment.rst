@@ -42,7 +42,7 @@
 
 您希望學生回答的**問題描述**或問題將會顯示在最上方，之後則是學生寫入答案的區塊。您可以要求您的學生輸入文字作為答案，或是允許學生上傳圖片與輸入文字。
 
-.. image:: /Images/PA_QandRField.png
+.. image:: Images/PA_QandRField.png
    :width: 500
    :alt: ORA question and blank response field
 
@@ -80,7 +80,7 @@
 
    * 名稱是一個評分標準的簡短概要，例如＂理念＂或＂內容＂。評分標準的名稱通常只有一個詞，且**必須是唯一的**，因為系統採用評分標準的名稱做為識別。當學生完成同儕評分時，評分標準名稱並不會出現於評分規則，而是顯示於學生的最終成績頁面。
 
-     .. image :: /Images/PA_CriterionName.png
+     .. image :: Images/PA_CriterionName.png
         :alt: A final score page with call-outs for the criterion names
 
    * 評分描述為評分標準的描述說明。
@@ -89,7 +89,7 @@
 
 * 每一個選項都包含*名稱*、*說明文字*與*分數*。
 
-  .. image:: /Images/PA_Rubric_LMS.png
+  .. image:: Images/PA_Rubric_LMS.png
      :alt: Image of a rubric in the LMS with call-outs for the criterion prompt and option names, explanations, and points
 
 同一個問題中不同的評分標準可以有不同數量的評分選項。如上圖，第一個評分標準有三個選項而第二個評分標準有四個選項。
@@ -98,7 +98,7 @@
 
 您可以看到下圖，您存取個別學生的分數訊息時，顯示的評分準則名稱與選項名稱。更多訊息請參閱:ref:`PA Accessing Assignment Information`.
 
-.. image:: /Images/PA_Crit_Option_Names.png
+.. image:: Images/PA_Crit_Option_Names.png
    :width: 600
    :alt: Student-specific assignment information with call-outs for criterion and option names
 
@@ -144,7 +144,7 @@
 
 當您查看問題時，可以看到評分的類型與順序。如下的範例顯示，學生提交答案後，須完成學生訓練項目（學習評分答案）、評估其他學生的答案以完成同儕評分項目（評分同儕），最後是完成自我評分項目（評分您自己的答案）。
 
-.. image:: /Images/PA_AsmtWithResponse.png
+.. image:: Images/PA_AsmtWithResponse.png
   :alt: Image of peer assessment with assessment steps and status labeled
   :width: 600
 
@@ -189,7 +189,7 @@
 
 如下圖，這個學生選擇了一個正確的選項和一個不正確的選項。
 
-.. image:: /Images/PA_TrainingAssessment_Scored.png
+.. image:: Images/PA_TrainingAssessment_Scored.png
    :alt: Sample training response, scored
    :width: 500
 
@@ -222,7 +222,7 @@
 
 備註欄將會出現於評分標準的下方。如下圖所示，兩個評分標準皆含有一個備註欄，而最下方也有對於整體答案的備註欄。
 
-.. image:: /Images/PA_CriterionAndOverallComments.png
+.. image:: Images/PA_CriterionAndOverallComments.png
    :alt: Rubric with comment fields under each criterion and under overall response
    :width: 600
 
@@ -274,13 +274,13 @@
 
 學生可以評分超過需評分的數量。學生完成同儕評分步驟時，該項目會＂摺疊＂，只有標題**評量同儕**是可見的。
 
-.. image:: /Images/PA_PAHeadingCollapsed.png
+.. image:: Images/PA_PAHeadingCollapsed.png
    :width: 500
    :alt: The peer assessment step with just the heading visible
 
 若學生點擊**評量同儕**標題，則項目展開，學生能夠點擊**繼續評量同儕**按鈕。
 
-.. image:: /Images/PA_ContinueGrading.png
+.. image:: Images/PA_ContinueGrading.png
    :width: 500
    :alt: The peer assessment step expanded so that "Continue Assessing Peers" is visible
 
@@ -301,7 +301,7 @@
 
 您可以設置**高分的回覆**欄位，顯示此問題中學生所提交獲得最高分的答案。學生完成此問題的每個步驟後，**高分的回覆**欄位將會顯示於學生成績信息之下方。
 
-.. image:: /Images/PA_TopResponses.png
+.. image:: Images/PA_TopResponses.png
    :alt: Section that shows the text and scores of the top three responses for the assignment
    :width: 500
 
