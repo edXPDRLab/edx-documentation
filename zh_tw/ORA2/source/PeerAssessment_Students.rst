@@ -1,181 +1,168 @@
 .. _PA for Students:
 
 ###########################################
-Open Response Assessments for Students
+學生的開方式問題
 ###########################################
 
-You may want to let your students know what to expect when they complete open response assessments. This guide walks students through each step of the process. 
+你可能會想讓學生知道如何完成一份開放式問題，這份文件將透過每一個步驟的講解引導學生完成。
 
 **************************************************
-Student Introduction to Open Response Asssessments
+對學生的開放式問題介紹
 **************************************************
 
-In an open response assessment, you'll provide a response to a question that may not have a simple or definitive answer. Some open response assessments have asked students to submit written responses, videos of speeches, and computer code. 
+在開放式問題中，你將會針對題目來作答，而作答時不僅僅是簡單的回覆，甚至有些開放式問題會要求學生繳交書面報告、演講影片或者程式碼等等。
 
-Open response assessments may include a peer assessment, a self assessment, or both. With a peer assessment, you'll assess, or grade, responses that several of your peers have submitted, and several of your peers will assess your response. With a self assessment, you'll assess your own response. To assess a response, you'll compare the response to a rubric that the instructor provides. 
+開放式問題中，評分的部分包含了同儕互評、自我評分或者兩者都有。在同儕互評階段，你將會看到其他同學的作答並給予評分和一些回饋，同理，你的作答也會被其他同學評分。而自我評分階段，你將評分自己的作答，目的是在看成績時來與同儕互評階段的分數做比較，進而去思考或了解自己的評分想法和其他同學的評分想法有何不同。
 
-A *rubric* is a list of expectations that a response should meet. Rubrics are made of *criteria* and *options*. *Criteria* describe characteristics that the response should have, such as topics the response should cover. The *options* for each of the criteria describe how well the response satisfies the criteria. In the following image, you can see a rubric with two criteria. Each of the criteria has several options.
+一份 **評分量表** 是對於評分作答的一個預期分數表，他由 **評分標準** 與 **評分選項** 所構成。 **評分標準** 是一個評分主題的簡短概要，例如『想法』或『內容』； **評分選項** 是在一個評分標準底下，評斷作答的好壞，例如『很好』或『尚可』。
 
-.. image:: /Images/PA_S_Rubric.png
+.. image:: Images/PA_S_Rubric.png
    :alt: Rubric showing criteria and options
    :width: 500
 
-When you assess a response, you'll select the option that best describes the response for each of the criteria. 
-
-Some instructors create a **Top Responses** section that shows the top-scoring responses for the assignment and the scores that these responses received. If an instructor creates this section, you can see it below your score after you've completed each step of the assignment. 
+當你在評分時，你將針對答案選出一個最符合評分標準的評分選項。
 
 ************************
-Student Instructions
+學生說明 Student Instructions
 ************************
 
-When you come to an open response assessment in the course, you'll see the question and a response field. After you submit your response, you'll assess some of your peers' responses, your own response, or both, depending on the assignment. You can see the steps that your assignment includes below the response field.
+當你進到開放式問題中，你將會看到問題區與作答區，當你送出作答之後，你將會看到其他同學或是自己的作答，並要給予評分，順序是根據出題者設定的，下圖為一個開放式問題的畫面：
 
-.. image:: /Images/PA_S_AsmtWithResponse.png
+.. image:: Images/PA_S_AsmtWithResponse.png
    :alt: Open response assessment example with question, response field, and assessment types and status labeled
    :width: 550
 
-Here, we'll walk you through the process of completing an open response assessment that includes a student training step, a peer assessment, and a self assessment:
+你將會透過以下幾個步驟來完成一個開放式問題：
 
-#. Submit your response to a question.
-#. Learn to assess responses.
-#. Assess responses that other students have submitted.
-#. Assess your own response to the question.
-#. Receive your score and provide feedback on the peer assessment.
+#. 針對題目的要求送出一個作答
+#. 學習如何評分作答
+#. 評分同儕的作答
+#. 評分自己的作答(如果有)
+#. 觀看成績與同儕的回饋
 
-At any time during the assessment, you can see your status at the bottom of the page under **Your Grade**. A message tells you the steps that you still have to perform before you can receive your grade. For example, you may see the following message:
-
-.. code-block:: xml
-
-  Not Completed
-  You have not completed the peer assessment step and self assessment step of this problem.
-
-=====================
-Submit Your Response
-=====================
-
-Read the question carefully. Some instructors include important information in the question, such as how long your response must be or specific topics your response must cover.
-
-.. note:: Your response must contain fewer than 10,000 words (approximately the equivalent of 20 pages of 8.5x11 paper, with text single-spaced).
-
-After you compose a response, type it into the response field under **Your Response**, and then click **Submit your response and move to the next step**. If you can't finish your response all at once, you can click **Save Your Progress** to save a draft of your response, and then come back and submit it later.
-
-After you submit your response, if other students have already submitted responses, the peer assessment step starts immediately. However, you don't have to start grading right away. If you want to stop working and come back later, just refresh or reopen your browser when you come back. New peer responses will be available for you to grade.
-
-If no other students have submitted responses yet, you'll see the following message:
+在作答時的任何時間點，你都可以在網頁的底下看到 **您的成績** ，他會告訴你還有哪些步驟還沒完成，只有在所以步驟都完成後才可以觀看成績。 若你只送出一個回應，往下拉可能會看到下列訊息：
 
 .. code-block:: xml
 
-  Waiting for Peer Responses
-  All submitted peer responses have been assessed. Check back later to see if more students
-  have submitted responses. You'll receive your grade after you complete the peer assessment
-  and self assessment steps, and after your peers have assessed your response.
+  您的成績：未完成
+  您還沒有完成這個問題的所有步驟。
 
-Note that you can view your response at any time after you submit it. To do this, click the **Your Response** heading to expand the response field.
+=====================
+送出作答
+=====================
 
-.. image:: /Images/PA_S_ReviewResponse.png
+仔細閱讀題目。題目中可能包含一些重要的訊息，像是回答字數至少要多少或是針對哪些主題作答等等。
+
+.. note:: 作答字數必須少於 10000 個字。
+
+
+當你要作答時，請在 **您的回覆** 區塊內填寫答案，完成後請點擊 **送出您的回應並移動至下一步** 。 如果你無法一次完成所有作答，可以點擊 **儲存您的進度** ，如此一來可以將目前所撰寫的答案保留，待下次再繼續作答。
+
+再送出回應之後，如果同儕互評階段已經開始並且已經有其他同學送出答案，你就可以開始觀看並且評分其他同學的作答，但是你不一定要立即評分，系統會自動儲存你目前的階段，如果你想要下次再來評分，只要重新整理網頁即可繼續。
+
+如果同儕互評階段已經開始，但是還沒有其他同學送出答案，你會看到下列訊息：
+
+.. code-block:: xml
+
+  等待同儕提交回應
+  所有提交答案已全部評分。之後再確認是否有更多的學生遞交答案。您將會在完成所有針對此問題的評分，以及您的同儕完成對您的評分後收到成績。
+
+提交答案後可以在任何時間點觀看你的作答，只要點選 **您的回覆** ，該區塊就會展開，即可看到你的作答。
+
+.. image:: Images/PA_S_ReviewResponse.png
    :alt: Image of the Response field collapsed and then expanded
    :width: 550
 
-Submit an Image with Your Response
+伴隨圖片送出作答
 ***********************************
 
+在某些題目中允許你上傳圖片作答，如果你可以上傳圖片，你在作答區塊下會看到選擇檔案的按鈕
 Some assignments allow you to submit an image with your text response. If you can submit an image, you'll see buttons that you'll use to upload your image.
 
-.. image:: /Images/PA_Upload_ChooseFile.png 
+.. image:: Images/PA_Upload_ChooseFile.png 
    :alt: Open response assessment example with Choose File and Upload Your Image buttons circled
    :width: 500
 
-To upload your image:
+藉由以下步驟上傳圖片
 
-#. Click **Choose File**.
-#. In the dialog box that opens, select the file that you want, and then click **Open**.
-#. When the dialog box closes, click **Upload Your Image**.
+#. 點擊 **選擇檔案**.
+#. 找到你要上傳的圖片，點擊 **開啟**.
+#. 當選取檔案的視窗關閉時，點擊 **上傳您的圖片**.
 
-.. note:: The image file must be a .jpg or .png file, and it must be smaller than 5 MB in size.
+.. note:: 注意，圖片的檔案格式必須為 .jpg 或 .png ，並且檔案大小要 **小於5 MB**。
 
-Your image appears below the response field, and the name of the image file appears next to the **Choose File** button. If you want to change the image, follow steps 1-3 again. You can only upload one image.
+你的圖片會顯示在回覆區塊底下，檔案名稱會顯示在 **選擇檔案** 的右邊，如果你想要更換圖片，請重複上述步驟1~3即可
 
-.. image:: /Images/PA_Upload_WithImage.png
+.. image:: Images/PA_Upload_WithImage.png
    :alt: Example response with an image of Paris
    :width: 500
 
-.. note:: You must submit text as well as your image in your response. You can't submit a response that doesn't contain text.
+.. note:: 注意，在送出回應時，必須包含文字，不可以只上傳一張圖片作答。
 
 ============================
-Learn to Assess Responses
+學習如何評分
 ============================
 
-In this step, you'll learn to assess responses effectively by reviewing and assessing sample responses that the instructor has provided. You'll try to select the same options for the response that the instructor selected.
+在此階段，你將藉由一些作答範例來學習如何評分，你將持續評分到與出題者相同的評分，才可進入下一個階段。
 
-.. note:: Not all instructors provide sample responses for training. If the instructor doesn't provide sample responses, this step won't appear in the assignment.
+.. note:: 並不是所有的題目都有學習評分，當出題者有開啟學習評分才會有此階段。
 
-After you submit your response, one of the sample responses opens, together with the rubric for the assignment. Read the sample response and the rubric carefully, select the options that you think best reflect the response, and then click **Compare your selections with the instructor's selections**. 
-
-If all of your selections match the instructor's selections, the next sample response opens automatically.
-
-If any your selections doesn't match the instructor's selections, you'll see the response again, and the following message appears above the response:
+在你送出作答後，會出現作答的範例和評分量表，仔細閱讀作答範例並且給予評分，選擇你認為適當的評分選項，選擇好後點擊 **比較您與教師之間的選項** ，如果都選擇正確的話會進入到下一個範例或是下一個階段，如果選擇與教師不同，你會看到下列訊息：
 
 .. code-block:: xml
 
-  Learning to Assess Responses
-  Your assessment differs from the instructor's assessment of this response. Review the
-  response and consider why the instructor may have assessed it differently. Then, try 
-  the assessment again.
+  學習如何對答案評分
+  您的答案與教師不同。請重新檢視答案並思考為何教師與您有不同的意見，之後再重新評分一次。
 
-For each of the criteria, you'll see one of the following two messages, depending on whether your selections matched those of the instructor:
+對於不同的評分標準，你會看到下面訊息，分別是選擇與教師不同與相同的情況：
 
 .. code-block:: xml
 
-  Selected Options Differ
-  The option you selected is not the option that the instructor selected.
+  選擇不同的評分選項
+  您選擇了與教師不同的評分選項。
 
 .. code-block:: xml
 
-  Selected Options Agree
-  The option you selected is the option that the instructor selected.
+  選擇正確的評分選項
+  您選擇了與教師相同的評分選項。
 
-In the following example, the student chose one correct option and one incorrect option.
+在下圖中，此學生選擇了一個正確選項與一個不正確選項
 
-.. image:: /Images/PA_TrainingAssessment_Scored.png
+.. image:: Images/PA_TrainingAssessment_Scored.png
    :alt: Sample training response, scored
    :width: 500
 
-You'll continue to assess the sample response until the options you select for all criteria match the options the instructor selected. 
-
-When you've successfully assessed all of the sample responses, you'll move to the next step in the assignment.
+你將要持續評分到與教師設定的評分相同才算完成，完成此階段後就會進到下一個階段。
 
 =====================
-Assess Peer Responses
+同儕互評
 =====================
 
-When peer assessment starts, you'll see the original question, another student's response, and the rubric for the assignment. Above the response you can see how many responses you'll assess and how many you've already assessed. 
+當你開始同儕互評階段，你會看到題目、其他同學的作答與評分量表。同時，你也會看到評量進度，他會告訴你已經完成了多少個同儕互評。
 
-.. image:: /Images/PA_S_PeerAssmt.png
+.. image:: Images/PA_S_PeerAssmt.png
    :alt: In-progress peer assessment
    :width: 500
 
-You'll assess these responses by selecting options in the rubric, the same way you assessed the sample responses in the "learn to assess responses" step. Additionally, this step has a field below the rubric where you can provide comments about the student's response. 
+評分的方式如同"學習如何評分"階段，你將針對每一評分選項選擇適當的評分標準，此外，你可以針對每一個評分標準給予回饋(如果有)，也可以針對該同學的作答給予整體性的回饋。
 
-.. note:: Some assessments may have an additional **Comments** field for one or more of the assessment's individual criteria. You can enter up to 300 characters in these fields. In the following image, both criteria have a **Comments** field. There is also a field for overall comments on the response.
+.. note:: 
+預設情況下，學生可以在整個評分準則下方看到一個備註欄。您也可以為一至多個評分標準設定個別的備註欄。此備註欄最多包含300個字元。
 
-    .. image:: /Images/PA_CriterionAndOverallComments.png
+備註欄將會出現於評分標準的下方。如下圖所示，第一個評分標準下有一個備註欄，而最下方也有對於整體答案的備註欄。
+
+    .. image:: Images/PA_CriterionAndOverallComments.png
        :alt: Rubric with comment fields under each criterion and under overall response
        :width: 600
 
-After you've selected options in the rubric and provided additional comments about the response in this field, click **Submit your assessment and move to response #<number>**.
+當你分數選項選擇完成與回饋輸入完成後，點擊 **Submit your assessment and move to response #<number>**。
 
-When you submit your assessment of the first student's response, another response opens for you. Assess this response in the same way that you assessed the first response, and then submit your assessment. You'll repeat these steps until you've assessed the required number of responses. The number in the upper-right corner of the step is updated as you assess each response.
+當你送出一位同學的評分，會接著看到另外一位同學的作答，評分方式與上一位同學的評分一樣，你將重複這些步驟直到你的評分數量到達教師指定數量。
 
-Assess Additional Peer Responses
+評分額外的同儕
 ********************************
 
-You can assess more peer responses if you want to. After you assess the required number of responses, the step "collapses" so that just the **Assess Peers** heading is visible. 
-
-.. image:: /Images/PA_PAHeadingCollapsed.png
-   :width: 500
-   :alt: The peer assessment step with just the heading visible
-
-To assess more responses, click the **Assess Peers** heading to expand the step. Then, click **Continue Assessing Peers**.
+當同儕評分階段完成後，如果你想要評分更多同儕的作答，只要點擊 **評量同儕** 區塊，他會延展出較完整的區塊，點擊 **繼續評量同儕** ，就可以繼續觀看並且評分更多同儕的作答。
 
 .. image:: /Images/PA_ContinueGrading.png
    :width: 500
@@ -183,87 +170,83 @@ To assess more responses, click the **Assess Peers** heading to expand the step.
 
 
 =====================
-Assess Your Response
+評分自己的作答
 =====================
 
-When you've completed enough peer assessments, your self assessment opens. You'll see your response along with the same rubric that you used in the peer assessment step. Assess your response, and then click **Submit Your Assessment**.
+當你完成了同儕互評階段，就會進到自我評分階段。 你將會看到你的作答與和先前一樣的評分量表，評分自己的作答，完成後點擊 **送出您的評量** 以完成此階段。
 
 ==========================================
-Receive Your Score and Provide Feedback
+查看分數與意見回饋
 ==========================================
 
-After you submit your self assessment, if other students are still assessing your response, you'll see the following message under the **Assess Your Response** step.
+當你完成自我評分後，如果你的答案還處於被同儕評分的階段，你會在 **您的成績** 區塊看到下列訊息：
 
 .. code-block:: xml
 
-  Your Grade: Waiting for Peer Assessment
+  您的成績:正在等待評量
 
-  Your response is still undergoing peer assessment. After your peers have assessed your
-  response, you'll see their feedback and receive your final grade.
+  您的回答仍在被同儕評分。在同儕評分後，您可以查看他們的評論內容並且獲得最後成績。
 
-If you see this message, keep checking back periodically until peer assessment is complete.
+當你的答案已經被評分完成，你可以看到其他同學評的分數和你自己評的分數，你也可以看到同學評分的意見回饋。
 
-When peer assessment is complete, you can see the scores you received from all of your peers, as well as your self assessment. You can also see any additional comments that your peers have provided.
-
-.. image:: /Images/PA_AllScores.png
+.. image:: Images/PA_AllScores.png
    :alt: A student's response with peer and self assessment scores
    :width: 550
 
-If you want to, you can provide feedback on the scores that you received under **Provide Feedback on Peer Assessments**.
-
 =================================================
-Assess Additional Peer Responses (optional)
+評分額外的同儕 (可選擇的)
 =================================================
 
-If you've assessed the required number of peer responses and completed your self assessment, you can assess additional peer responses. To do this, click the **Assess Peers** heading. If any responses remain to be assessed, a new response opens.
+當同儕評分階段完成後，如果你想要評分更多同儕的作答，只要點擊 **評量同儕** 區塊，他會延展出較完整的區塊，點擊 **繼續評量同儕** ，就可以繼續觀看並且評分更多同儕的作答。
 
 ***********************
-Peer Assessment Scoring
+同儕互評分數
 ***********************
 
-Peer assessments are scored by criteria. An individual criterion's score is the *median*, not average, of the scores that each peer assessor gave that criterion. For example, if the Ideas criterion in a peer assessment receives a 10 from one student, a 7 from a second student, and an 8 from a third student, the Ideas criterion's score is 8.
+評分標準的分數是根據評分標準的 **中位數** 來表示，並不是平均分數。 舉例來說：在 *內容* 這個評分標準下，第一位同學給我10分，第二位同學給我7分，第三位同學給我8分，我的 *內容* 的分數就是8。
 
-Your final score for a peer assessment is the sum of the median scores for each individual criterion. 
+你的最終成績是由每一項評分標準的中位數計算出來的。
+舉例來說，你在一項作答當中得到下列分數：
 
-For example, a response may receive the following scores from peer assessors:
 
 .. list-table::
    :widths: 25 10 10 10 10
    :stub-columns: 1
    :header-rows: 1
 
-   * - Criterion Name
-     - Peer 1
-     - Peer 2
-     - Peer 3
-     - Median
-   * - Ideas (out of 10)
+   * - 評分標準
+     - 同儕 1
+     - 同儕 2
+     - 同儕 3
+     - 中位數
+   * - 想法 (最多10分)
      - 10
      - 7
      - 8
      - **8**
-   * - Content (out of 10)
+   * - 內容 (最多10分)
      - 7
      - 9
      - 8
      - **8**
-   * - Grammar (out of 5)
+   * - 語意 (最多5分)
      - 4
      - 4
      - 5
      - **4**
 
-To calculate the final score, the system adds the median scores for each criterion:
 
-  **Ideas median (8/10) + Content median (8/10) + Grammar median (4/5) = final score (20/25)**
+系統在計算最終分數時是這樣算的：
 
-Note, again, that final scores are calculated by criteria, not by assessor. Thus your score is not the median of the scores that each individual peer assessor gave the response.
+  **想法的中位數 (8/10) + 內容的中位數 (8/10) + 文法的中位數 (4/5) = final score (20/25)**
+
+這邊在強調一次，分數的計算是根據評分標準的 **中位數**，並不是所得分數的平均值。
 
 ==================================
-View Top Responses (optional)
+觀看高分的回覆 (可選擇的)
 ==================================
 
-If the instructor has included a **Top Responses** section, you can see the highest-scoring responses that your peers have submitted. This section only appears after you've completed all the steps of the assignment.
+如果此題目有包含 **高分的回覆** ，你在完成所有步驟後可以在最底下觀看較高分的回覆。
 
 .. image:: /Images/PA_TopResponses.png
    :alt: Section that shows the text and scores of the top three responses for the assignment
