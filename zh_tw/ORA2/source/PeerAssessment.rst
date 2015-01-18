@@ -223,7 +223,7 @@
 
 預設情況下，學生可以在整個評分準則下方看到一個備註欄。您也可以為一至多個評分標準設定個別的備註欄。此備註欄最多包含300個字元。
 
-備註欄將會出現於評分標準的下方。如下圖所示，兩個評分標準皆含有一個備註欄，而最下方也有對於整體答案的備註欄。
+備註欄將會出現於評分標準的下方。如下圖所示，第一個評分標準下有一個備註欄，而最下方也有對於整體答案的備註欄。
 
 .. image:: Images/PA_CriterionAndOverallComments.png
    :alt: Rubric with comment fields under each criterion and under overall response
