@@ -1,9 +1,9 @@
 *******
-讀我
+Read Me
 *******
 
-The edX *Building a Course with edX Studio* documentation is created
-using RST_ files and Sphinx_. You, the user community, can help update and revise
+The edX *Building a Course with edX Studio* documentation is created 
+using RST_ files and Sphinx_. You, the user community, can help update and revise 
 this documentation project on GitHub::
 
   https://github.com/edXPDRLab/edx-documentation/tree/master/zh_tw/ORA2/source
